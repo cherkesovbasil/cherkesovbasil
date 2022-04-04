@@ -2,7 +2,8 @@
 ___
 I'm an engineer in a company that develops scientific devices based on ionizing radiation. I'm learning how to code on python and like the feeling when I can finally solve a difficult problem. Especially if I was up all night dealing with it))
 ___
-Going to retrain as a data scietist, even if it's a long and hard road. 
+Going to retrain as a data scietist, even if it's a long and hard road.
+
 Enjoy process automation. And chess)
 ___
 My first project after "Hello, word" - [here](https://github.com/cherkesovbasil/Processing_of_diffractogram_data)
