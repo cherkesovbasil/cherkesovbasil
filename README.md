@@ -1,7 +1,8 @@
-![Gray Elegant Assistant Manager LinkedIn Banner](https://user-images.githubusercontent.com/91522891/161520646-6046cacb-173b-4ba0-8198-030147ca2845.png)
+![Just a bunner](https://user-images.githubusercontent.com/91522891/161520646-6046cacb-173b-4ba0-8198-030147ca2845.png)
 
+I'm an engineer with almost 1 year of continuous experience in a company that develops scientific devices based on ionizing radiation
+![png-transparent-radiation-hazard-symbol-radioactive-decay-symbol-miscellaneous-logo-sign-thumbnail](https://user-images.githubusercontent.com/91522891/161521864-528e3784-c3fd-45be-817a-2f859d495931.png)
 
-### Hi there 👋
 
 <!--
 **cherkesovbasil/cherkesovbasil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
