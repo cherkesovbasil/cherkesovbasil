@@ -13,7 +13,7 @@ ___
 * Fully learn **blind printing**
 * Relocate to **Australia**:)
 
-*Enjoy process automation. And chess)*
+*Enjoying process automation. And chess)*
 ___
 ## Projects:
 
