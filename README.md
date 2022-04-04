@@ -13,13 +13,16 @@ ___
 * Fully learn **blind printing**
 * Relocate to **Australia**:)
 
-Enjoy process automation. And chess)
+*Enjoy process automation. And chess)*
 ___
+# Projects:
+
 My first project after "Hello, word" - [here](https://github.com/cherkesovbasil/Processing_of_diffractogram_data)
 
 *Interesting fact - my first program was not "Hello, world!*
 ___
-If you wanna find me:
+# If you wanna find me:
+
 * [Gmail](mailto:cherkesovbasil@gmail.com) (the surest way)
 * [Telegram](https://t.me/Ch_Basil) (the fastest way)
 * [Linkedin](https://www.linkedin.com/in/cherkesovbasil/) (more info about me)
