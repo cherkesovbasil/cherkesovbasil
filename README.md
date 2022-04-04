@@ -4,3 +4,9 @@ I'm an engineer in a company that develops scientific devices based on ionizing 
 ___
 Going to retrain as a data scietist, even if it's a long and hard road. Enjoy process automation and chess.
 ___
+My first project after "Hello, word" - [here](https://github.com/cherkesovbasil/Processing_of_diffractogram_data)
+___
+If you wanna find me, here I am:
+* [Gmail](cherkesovbasil@gmail.com)
+* [Telegram](https://t.me/Ch_Basil)
+* [Linkedin](https://www.linkedin.com/in/cherkesovbasil/)
