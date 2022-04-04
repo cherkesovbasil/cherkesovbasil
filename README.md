@@ -8,10 +8,10 @@ I'm an engineer in a company that develops scientific devices based on ionizing 
 ___
 # Goals:
 
-* Going to **retrain as a data scietist**, even if it's a long and hard road
-* Going to **improve** my **English to** an **advanced** level
+* **Retrain as a data scietist**, even if it's a long and hard road
+* **Improve** my **English to** an **advanced** level
 * Fully learn **blind printing**
-* Relocate to Australia
+* Relocate to **Australia**:)
 
 Enjoy process automation. And chess)
 ___
