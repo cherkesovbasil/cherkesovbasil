@@ -1,7 +1,8 @@
 ![Just a bunner](https://user-images.githubusercontent.com/91522891/161520646-6046cacb-173b-4ba0-8198-030147ca2845.png)
 
 I'm an engineer with almost 1 year of continuous experience in a company that develops scientific devices based on ionizing radiation
-![imgonline-com-ua-Resize-LPZk5fzN8kp3](https://user-images.githubusercontent.com/91522891/161522233-b5ba26ff-26de-46a7-8b43-389de13c814d.png)
+![imgonline-com-ua-Resize-Pzx0fnLssQD7bqMT](https://user-images.githubusercontent.com/91522891/161522384-1b96b639-4f43-4298-8a82-fd7f2431e4b7.png)
+
 
 
 
