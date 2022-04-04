@@ -12,3 +12,7 @@ If you wanna find me:
 * [Gmail](mailto:cherkesovbasil@gmail.com)
 * [Telegram](https://t.me/Ch_Basil)
 * [Linkedin](https://www.linkedin.com/in/cherkesovbasil/)
+
+<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
+<div class="badge-base LI-profile-badge" data-locale="ru_RU" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="cherkesovbasil" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://by.linkedin.com/in/cherkesovbasil?trk=profile-badge">Vasily Cherkesov</a></div>
+              
