@@ -1,24 +1,4 @@
 ![Just a bunner](https://user-images.githubusercontent.com/91522891/161520646-6046cacb-173b-4ba0-8198-030147ca2845.png)
 
-I'm an engineer with almost 1 year of continuous experience in a company that develops scientific devices based on ionizing radiation
-![imgonline-com-ua-Resize-hL50dPPT7BkM](https://user-images.githubusercontent.com/91522891/161522756-8c77d8d5-a7d5-4767-ba1e-e5cf854be2f6.png)
-
-
-
-
-
-
-<!--
-**cherkesovbasil/cherkesovbasil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm an engineer in a company that develops scientific devices based on ionizing radiation. I'm learning how to code on @python and like the feeling when I can finally solve a difficult problem. Especially if I was up all night dealing with it))
+Going to retrain as a data scietist, even if it's a long and hard road. Enjoy process automation and chess.
