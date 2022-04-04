@@ -6,8 +6,7 @@ Going to retrain as a data scietist, even if it's a long and hard road. Enjoy pr
 ___
 My first project after "Hello, word" - [here](https://github.com/cherkesovbasil/Processing_of_diffractogram_data)
 ___
-If you wanna find me, here I am:
+If you wanna find me:
 * [Gmail](mailto:cherkesovbasil@gmail.com)
 * [Telegram](https://t.me/Ch_Basil)
 * [Linkedin](https://www.linkedin.com/in/cherkesovbasil/)
-<a href="">Текст ссылки</a>
