@@ -7,7 +7,7 @@ ___
 My first project after "Hello, word" - [here](https://github.com/cherkesovbasil/Processing_of_diffractogram_data)
 ___
 If you wanna find me, here I am:
-* [Gmail](cherkesovbasil@gmail.com)
+* [Gmail](mailto:cherkesovbasil@gmail.com)
 * [Telegram](https://t.me/Ch_Basil)
 * [Linkedin](https://www.linkedin.com/in/cherkesovbasil/)
-<a href="mailto:cherkesovbasil@gmail.com">Текст ссылки</a>
+<a href="">Текст ссылки</a>
