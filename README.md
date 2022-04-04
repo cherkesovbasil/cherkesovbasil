@@ -10,3 +10,4 @@ If you wanna find me, here I am:
 * [Gmail](cherkesovbasil@gmail.com)
 * [Telegram](https://t.me/Ch_Basil)
 * [Linkedin](https://www.linkedin.com/in/cherkesovbasil/)
+<a href="mailto:cherkesovbasil@gmail.com">Текст ссылки</a>
