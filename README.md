@@ -27,4 +27,4 @@ ___
 * [Telegram](https://t.me/Ch_Basil) (the fastest way)
 * [Linkedin](https://www.linkedin.com/in/cherkesovbasil/) (more info about me)
 ___
-![code](https://user-images.githubusercontent.com/91522891/161726265-b95b5186-5e4b-412f-ae3a-12f4564ecdb2.gif)
+![code](https://user-images.githubusercontent.com/91522891/161726603-4d19cd58-5d66-45c6-867a-e70fa24d9765.gif)
