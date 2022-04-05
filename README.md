@@ -27,16 +27,4 @@ ___
 * [Telegram](https://t.me/Ch_Basil) (the fastest way)
 * [Linkedin](https://www.linkedin.com/in/cherkesovbasil/) (more info about me)
 ___
-![code](https://user-images.githubusercontent.com/91522891/161722687-833375cf-cc66-413c-97c7-a15c0d6e3f79.gif)
-
-![ezgif com-gif-maker (6)](https://user-images.githubusercontent.com/91522891/161723549-0749c322-5c27-4b70-8553-1e4fefb76952.gif)
-
-![ezgif com-gif-maker (7)](https://user-images.githubusercontent.com/91522891/161724216-fc8a36a7-5b01-4c69-9d1b-ca9f77bcfc9e.gif)
-
-![ezgif com-gif-maker (7)](https://user-images.githubusercontent.com/91522891/161724875-ecb4a904-6b3f-4a28-8945-5eaa9b90ec6c.gif)
-
-![ezgif com-gif-maker (8)](https://user-images.githubusercontent.com/91522891/161725064-e2193b3d-4a76-4c17-9420-4530afe7c0c5.gif)
-
-![ezgif com-gif-maker (9)](https://user-images.githubusercontent.com/91522891/161725481-bbb882bf-cce3-449a-a326-17b09cffe4a1.gif)
-
-![ezgif com-gif-maker (10)](https://user-images.githubusercontent.com/91522891/161725733-127dba3d-e693-460f-bae3-511b3c25ddac.gif)
+![code](https://user-images.githubusercontent.com/91522891/161726265-b95b5186-5e4b-412f-ae3a-12f4564ecdb2.gif)
