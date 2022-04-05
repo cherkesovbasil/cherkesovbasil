@@ -26,5 +26,3 @@ ___
 * [Gmail](mailto:cherkesovbasil@gmail.com) (the surest way)
 * [Telegram](https://t.me/Ch_Basil) (the fastest way)
 * [Linkedin](https://www.linkedin.com/in/cherkesovbasil/) (more info about me)
-
-специализация
