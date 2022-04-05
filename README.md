@@ -26,3 +26,5 @@ ___
 * [Gmail](mailto:cherkesovbasil@gmail.com) (the surest way)
 * [Telegram](https://t.me/Ch_Basil) (the fastest way)
 * [Linkedin](https://www.linkedin.com/in/cherkesovbasil/) (more info about me)
+___
+![Untitled](https://user-images.githubusercontent.com/91522891/161718060-1acad584-47e7-4f28-bdcc-40743cde4b77.gif)
