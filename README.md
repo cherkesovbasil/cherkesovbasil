@@ -18,8 +18,6 @@ ___
 ## Projects:
 
 My first project after "Hello, word" - [here](https://github.com/cherkesovbasil/Processing_of_diffractogram_data)
-
-*Interesting fact - my first program was not "Hello, world!*
 ___
 ## If you wanna find me:
 
