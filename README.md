@@ -7,6 +7,7 @@ I'm an engineer in a company that develops scientific devices based on ionizing 
 https://www.scientific.net/MSF.1141.111
 
 I'm learning how to code on python and like the feeling when I can finally solve a difficult problem. 
+
 *Especially if I was up all night dealing with it))*
 ___
 ## Goals:
