@@ -2,8 +2,10 @@
 ___
 ## About me:
 
-I'm an engineer in a company that develops scientific devices based on ionizing radiation. I have a B.E. of Engineering (*specialisation - micro- and nanoelectronic systems and technologies*). I'm learning how to code on python and like the feeling when I can finally solve a difficult problem. 
+I'm an engineer in a company that develops scientific devices based on ionizing radiation. I have a B.E. of Engineering (*specialisation - micro- and nanoelectronic systems and technologies*). 
+https://www.scientific.net/MSF.1141.111
 
+I'm learning how to code on python and like the feeling when I can finally solve a difficult problem. 
 *Especially if I was up all night dealing with it))*
 ___
 ## Goals:
